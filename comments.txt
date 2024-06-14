@@ -1,0 +1,11 @@
+fabric --> a package making easy to create and work with html5 canvas manipulation.
+uuid --> package to generate unqiue id
+liveblocks --> Liveblocks is a real-time collaboration infrastructure for building performant collaborative experiences
+
+ClientSideSuspense: A component from the Liveblocks React package, used for handling suspense on the client side. It likely delays rendering until certain data is available.
+useThreads: A custom hook likely imported from the project's Liveblocks configuration file. It retrieves the threads (comments/conversation threads).
+Composer and Thread: Components from the Liveblocks React Comments package. Composer is typically used to compose a new thread or comment, and Thread is used to display an individual thread.
+
+
+
+check index.ts and CommentsOverlay.tsx
